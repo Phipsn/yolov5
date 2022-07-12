@@ -1,3 +1,7 @@
+python detect.py --weights best.pt --source 0
+
+
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
